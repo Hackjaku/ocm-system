@@ -3,11 +3,11 @@
   "_langCode": "it",
   "ocm": {
     "general": {
-      "shortDescription": "Il data base pubblico globale delle colonnine di ricarica",
+      "shortDescription": "Il database pubblico globale delle colonnine di ricarica",
       "linkWebApp": "Cerca le colonnine utilizzando la nostra Web App",
       "linkBrowsePOI": "Elenca tutte le colonnine",
       "browsePOI": "Ricerca le colonnine di ricarica",
-      "loadingProgress": "caricamento in corso...",
+      "loadingProgress": "Caricamento in corso...",
       "addLocation": "Aggiungi colonnina",
       "addItem": "Aggiungi",
       "favourites": "Preferite",
@@ -49,7 +49,7 @@
       "lastUpdated": "Ultimo aggiornamento",
       "refNumber": "Rif: OpenChargeMap",
       "dataQualityLevel": "Livello di affidabilità dei dati",
-      "importedDataNotice": "N.B. questi dati sono inseriti automaticamente e derivano dal sito del gestore della colonnina per cui eventuali modifiche dovrebbero essere effettuate direttamente su tale sito.",
+      "importedDataNotice": "N.B. questi dati sono inseriti automaticamente e derivano dal sito web del gestore della colonnina. Eventuali modifiche devono essere effettuate direttamente sul relativo sito",
       "submissionStatus": "Stato di Approvazione",
       "placesNearby": {
         "sectionTitle": "Luoghi di interesse nelle vicinanze"
@@ -149,7 +149,7 @@
       "getStations": {
         "sectionTitle": "Visualizza le informazioni di una colonnina",
         "who": "Costruttori di veicoli, fornitori di navigatori satellitari, sviluppatori di App, proprietari di siti Web:",
-        "what": "è possibile accedere e scaricare le più recenti colonnine di ricarica utilizzando",
+        "what": "E' possibile accedere e scaricare le più recenti colonnine di ricarica utilizzando",
         "websiteOperators": "Se gestisci un sito Web e vuoi includere una mappa delle colonnine di ricarica, è possibile",
         "embedMap": "Incorporare una mappa nel tuo sito Web"
       },
